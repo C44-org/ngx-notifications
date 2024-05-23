@@ -1,11 +1,10 @@
 {
-  "name": "@christophhu/ngx-notifications",
-  "version": "1.0.1",
+  "name": "@c44/ngx-notifications",
+  "version": "1.0.0",
   "description": "Create Angular notifications.",
   "license": "MIT",
   "author": {
-    "name": "Christoph Huschenhoefer",
-    "email": "christoph@nxt.codes"
+    "name": "C 44"
   },
   "keywords": [
     "angular",
@@ -22,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChristophHu/ngx-notifications.git"
+    "url": "https://github.com/c44-org/ngx-notifications.git"
   },
   "bugs": {
-    "url": "https://github.com/ChristophHu/ngx-notifications/issues"
+    "url": "https://github.com/c44-org/ngx-notifications/issues"
   },
-  "homepage": "https://github.com/ChristophHu/ngx-notifications#readme",
+  "homepage": "https://github.com/c44-org/ngx-notifications#readme",
   "sideEffects": false
 }

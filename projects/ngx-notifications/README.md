@@ -4,4 +4,4 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo
 
-[Demo](https://christophhu.github.io/ngx-notifications/)
+[Demo](https://c44-org.github.io/ngx-notifications/)
